@@ -1,0 +1,1 @@
+print("Git account created successfully")
